@@ -1,30 +1,32 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🎓 EDUCATION: PURSUING A BTECH DEGREE IN ELECTRONICS AND COMMUNICATION ENGINEERING AT TKM COLLEGE OF ENGINEERING.
+🎓 Education: Pursuing B.Tech in Electronics and Communication at TKM College of Engineering.
 
-## 🤖 INTERESTS:
-- EMBEDDED SYSTEMS
-- ROBOTICS
-- ELECTRONICS
-- 3D DESIGNING
-- INTERNET OF THINGS (IOT)
-- HARDWARE DESIGN
+## 🤖 Interests:
+- Embedded Systems
+- Robotics
+- Electronics
+- 3D Designing
+- Internet Of Things(IoT)
+- Hardware Design
 
-## 💻 PROGRAMMING LANGUAGES:
+## 💻 Programming Languages:
 - C
-- PYTHON *(Currently Learning Embedded C)*
+- C++
+- Embedded C
+- Python
 
-## 🛠 SKILLS:
-- ELECTRONICS CIRCUIT DESIGN
-- EMBEDDED SYSTEM DEVELOPMENT
-- PROJECT MANAGEMENT
+## 🛠 Skills:
+- Electronics Circuit Design
+- Embedded System Design
+- Project Management
 
-## 🚀 EXPERIENCE:
-- TECHNICAL TEAM MEMBER AT CENTRE FOR ROBOTICS, TKMCE.
+## 🚀 Experience:
+- Technical Team Member at Centre for Robotics, TKMCE.
 
-## 🎓 CERTIFICATIONS:
-- **Introduction to Internet of Things (Coursera)**
+## 🎓 Certfications:
+- **Introduction to Internet of Things (NPTEL)**
 - **The Arduino Platform and C Programming (Coursera)**
 
 📫 **CONTACT:** Reach me at [navya.rojin@gmail.com](mailto:navya.rojin@gmail.com)
@@ -62,7 +64,5 @@
 [![](https://visitcount.itsvg.in/api?id=navyadeenarojin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
