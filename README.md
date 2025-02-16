@@ -27,7 +27,7 @@
 
 ## 🎓 Certfications:
 - **Introduction to Internet of Things (NPTEL)**
-- **The Arduino Platform and C Programming (Coursera)**
+- **The Arduino Platform and C Programming (Coursera)**(https://www.coursera.org/account/accomplishments/verify/R55R2WVG5GXK?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)
 
 📫 **CONTACT:** Reach me at [navya.rojin@gmail.com](mailto:navya.rojin@gmail.com)
 
@@ -42,7 +42,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) 
 ![Embedded C](https://img.shields.io/badge/embeddedc-%23000000.svg?style=plastic&logo=c&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
 ---
 ## 📊 GitHub Stats:
