@@ -1,15 +1,62 @@
 # 💫 About Me:
-🎓 **Education**: Pursuing a B.Tech in Electronics and Communication Engineering at TKM College of Engineering.<br><br>
-🤖 **Interests**:<br>Embedded Systems, IoT (Internet of Things), Robotics, 3D Design, PCB Design, Healthcare Tech Automation.<br><br>
-🛠 **Skills**:<br>• 3D Modeling (Fusion 360)<br>• Embedded Systems & Microcontrollers (Arduino, ESP32)<br>• Circuit Design & PCB Layout<br• IoT Prototyping & Sensor Integration<br>• Robotics Design & Simulation<br><br>
-🚀 **Projects**:<br>• **Antweight Combat Robot** – Designed in Fusion 360, focusing on weight optimization and maneuverability.<br>• **Line Follower Robot** – Designed in Fusion 360 optimized for precision tracking and stability with sensor integration.<br• **IV Drip Monitoring System** – Healthcare IoT project using Arduino Nano, LDR, LED, and buzzer for real-time monitoring.<br><br>
-📫 **Contact**: navya.rojin@gmail.com
+
+## 🎓 Education:
+I am currently pursuing a **Bachelor of Technology (B.Tech)** in **Electronics and Communication Engineering** at **TKM College of Engineering**. My academic journey has fueled my passion for **embedded systems, IoT, and robotics**, enabling me to work on hands-on projects that integrate hardware and software seamlessly.
+
+## 🤖 Interests:
+- **Embedded Systems & Microcontrollers**
+- **Internet of Things (IoT) & Automation**
+- **Robotics & Mechatronics**
+- **3D CAD Modeling & Prototyping**
+- **Circuit Design & PCB Layout**
+- **Healthcare Tech & Biomedical Engineering**
+
+## 🛠 Technical Skills:
+### Programming Languages:
+- **C, Python** (Proficient)
+- **Arduino, Embedded C** (Proficient)
+- **Verilog** (Basic Understanding)
+
+### Hardware & Development Platforms:
+- **Microcontrollers**: Arduino, ESP32
+- **PCB Design & Circuit Simulation**: EasyEDA
+- **3D CAD & Design**: Autodesk Fusion 360
+- **IoT Prototyping & Sensor Integration**
+
+### Tools & Software:
+- **Fusion 360 & AutoCAD** for mechanical design
+- **Git & GitHub** for version control
+- **Machine Learning Basics** using OpenCV
+
+## 🚀 Projects:
+### **1️⃣ Antweight Combat Robot**
+- Designed and developed using **Fusion 360**, with a focus on **weight optimization, durability, and maneuverability**.
+- Integrated **parametric modeling** for easy modifications and improvements.
+- Ensured compliance with the **150g weight limit** for Antweight combat robotics competitions.
+
+### **2️⃣ Line Follower Robot**
+- Implemented **optimized sensor placement** for **precision line tracking**.
+- Designed for **balanced weight distribution**, ensuring **stability and speed**.
+- Utilized **Fusion 360 simulations** to refine performance and structural integrity.
+
+### **3️⃣ IV Drip Monitoring System**
+- Developed a **real-time IV fluid monitoring system** using **Arduino Nano, LDR, LED, LCD display, and a buzzer**.
+- Designed a **custom 3D-printed case** for durability and usability.
+- Potential for **IoT integration and AI-driven analytics** for **advanced healthcare automation**.
+
+## 📫 Contact:
+- **Email**: [navya.rojin@gmail.com](mailto:navya.rojin@gmail.com)
+- **LinkedIn**: [Navya Deena Rojin](https://linkedin.com/in/navya-deena-rojin)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navya-deena-rojin)
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion360-%23F58500.svg?style=plastic&logo=autodesk&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) ![PCB Design](https://img.shields.io/badge/PCB%20Design-%23008CBA.svg?style=plastic&logo=altium-designer&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) 
+![Fusion 360](https://img.shields.io/badge/Fusion360-%23F58500.svg?style=plastic&logo=autodesk&logoColor=white) 
+![PCB Design](https://img.shields.io/badge/PCB%20Design-%23008CBA.svg?style=plastic&logo=altium-designer&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=navya-rojin&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
