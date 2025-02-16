@@ -27,8 +27,9 @@
 
 ## 🎓 Certfications:
 - **Introduction to Internet of Things (NPTEL)**
-- **The Arduino Platform and C Programming (Coursera)**(https://www.coursera.org/account/accomplishments/verify/R55R2WVG5GXK?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)
-
+- **The Arduino Platform and C Programming (Coursera)**
+- [<img src="[https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~R55R2WVG5GXK/CERTIFICATE_LANDING_PAGE~R55R2WVG5GXK.jpeg)" width="150" height="150">](https://www.credly.com/badges/b9ab0b8a-619f-4a6a-af9b-5f2b08812351/public_url)
+[<img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="150" height="150">]([https://www.credly.com/badges/ce71db10-c1ad-425c-a454-88546edfe10d/public_url](https://coursera.org/share/eb2cfdf2a21613be972a8ee5a447bd51))
 📫 **CONTACT:** Reach me at [navya.rojin@gmail.com](mailto:navya.rojin@gmail.com)
 
 ---
