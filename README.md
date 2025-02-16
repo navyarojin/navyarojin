@@ -1,8 +1,8 @@
 # 💫 About Me:
 🎓 **Education**: Pursuing a B.Tech in Electronics and Communication Engineering at TKM College of Engineering.<br><br>
 🤖 **Interests**:<br>Embedded Systems, IoT (Internet of Things), Robotics, 3D Design, PCB Design, Healthcare Tech Automation.<br><br>
-🛠 **Skills**:<br>✔️ 3D Modeling (Fusion 360)<br>✔️ Embedded Systems & Microcontrollers (Arduino, ESP32)<br>✔️ Circuit Design & PCB Layout<br>✔️ IoT Prototyping & Sensor Integration<br>✔️ Robotics Design & Simulation<br><br>
-🚀 **Projects**:<br>✔️ **Antweight Combat Robot** – Designed in Fusion 360, focusing on weight optimization and maneuverability.<br>✔️ **Line Follower Robot** – Optimized for precision tracking and stability with sensor integration.<br>✔️ **IV Drip Monitoring System** – Healthcare IoT project using Arduino Nano, LDR, LED, and buzzer for real-time monitoring.<br><br>
+🛠 **Skills**:<br>• 3D Modeling (Fusion 360)<br>• Embedded Systems & Microcontrollers (Arduino, ESP32)<br>• Circuit Design & PCB Layout<br• IoT Prototyping & Sensor Integration<br>• Robotics Design & Simulation<br><br>
+🚀 **Projects**:<br>• **Antweight Combat Robot** – Designed in Fusion 360, focusing on weight optimization and maneuverability.<br>• **Line Follower Robot** – Designed in Fusion 360 optimized for precision tracking and stability with sensor integration.<br• **IV Drip Monitoring System** – Healthcare IoT project using Arduino Nano, LDR, LED, and buzzer for real-time monitoring.<br><br>
 📫 **Contact**: navya.rojin@gmail.com
 
 ## 🌐 Socials:
