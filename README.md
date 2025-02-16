@@ -33,9 +33,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navya-deena-rojin)
 
----
-## 🏆 Badges:
-[![IoT Badge](https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](#)
 
 ---
 ## 💻 Tech Stack:
@@ -48,14 +45,14 @@
 ---
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=navyadeenarojin&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=navyadeenarojin&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=navyadeenarojin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=navyarojin&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=navyarojin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 ## 📟 Tech Stats:
-![GitHub Followers](https://img.shields.io/github/followers/navyadeenarojin?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/navyadeenarojin?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=navyadeenarojin&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/navyarojin?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/navyarojin?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=navyarojin&color=blue)
 
 ---
 ### ✍️ Random Dev Quote
@@ -65,8 +62,6 @@
 [![](https://visitcount.itsvg.in/api?id=navyadeenarojin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](#)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
