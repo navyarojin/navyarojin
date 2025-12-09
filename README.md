@@ -73,5 +73,6 @@ C | Embedded C | Python | Arduino | ESP32 | EasyEDA | Cadence | Vivado | Fusion 
 
 ## Contact
 Email: navya.rojin@gmail.com
-LinkedIn: Navya Deena Rojin
+LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Navya%20Deena%20Rojin-blue?logo=linkedin)](https://linkedin.com/in/navya-deena-rojin)
+
 
