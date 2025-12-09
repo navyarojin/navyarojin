@@ -1,70 +1,77 @@
-# 💫 About Me:
+# Navya Deena Rojin
 
-## 🎓 Education:
-I am currently pursuing a **Bachelor of Technology (B.Tech)** in **Electronics and Communication Engineering** at **TKM College of Engineering**. My academic journey has fueled my passion for **embedded systems, IoT, and robotics**, enabling me to work on hands-on projects that integrate hardware and software seamlessly.
+Electronics & Communication Engineering Undergraduate
+Embedded Systems | PCB Design | Healthcare Electronics
 
-## 🤖 Interests:
-- **Embedded Systems & Microcontrollers**
-- **Internet of Things (IoT) & Automation**
-- **Robotics & Mechatronics**
-- **3D CAD Modeling & Prototyping**
-- **Circuit Design & PCB Layout**
-- **Healthcare Tech & Biomedical Engineering**
+## Profile
+I am a B.Tech Electronics and Communication Engineering student at TKM College of Engineering with a strong inclination toward core electronics and embedded hardware development. My work focuses on building robust embedded systems with emphasis on circuit reliability, efficient firmware, and system-level integration, particularly for healthcare and assistive technologies.
 
-## 🛠 Technical Skills:
-### Programming Languages:
-- **C, Python** (Proficient)
-- **Arduino, Embedded C** (Proficient)
-- **Verilog** (Basic Understanding)
+I work across the complete product development cycle from circuit design, PCB layout, firmware development, and mechanical enclosure design.
 
-### Hardware & Development Platforms:
-- **Microcontrollers**: Arduino, ESP32
-- **PCB Design & Circuit Simulation**: EasyEDA
-- **3D CAD & Design**: Autodesk Fusion 360
-- **IoT Prototyping & Sensor Integration**
+## Technical Focus Areas
+- Embedded Systems & Firmware Development
+- Microcontroller-Based System Design
+- PCB Design, Power Electronics & Signal Conditioning
+- Sensor Interfacing & Hardware Debugging
+- Biomedical & Healthcare Electronics
+- Rapid Prototyping & System Integration
 
-### Tools & Software:
-- **Fusion 360 & AutoCAD** for mechanical design
-- **Git & GitHub** for version control
-- **Machine Learning Basics** using OpenCV
+## Technical Skills
 
-## 🚀 Projects:
-### **1️⃣ Antweight Combat Robot**
-- Designed and developed using **Fusion 360**, with a focus on **weight optimization, durability, and maneuverability**.
-- Integrated **parametric modeling** for easy modifications and improvements.
-- Ensured compliance with the **150g weight limit** for Antweight combat robotics competitions.
+### Programming & HDL
+- C, Embedded C, Python
+- Verilog & VHDL 
 
-### **2️⃣ Line Follower Robot**
-- Implemented **optimized sensor placement** for **precision line tracking**.
-- Designed for **balanced weight distribution**, ensuring **stability and speed**.
-- Utilized **Fusion 360 simulations** to refine performance and structural integrity.
+### Embedded Hardware
+- Microcontrollers: Arduino, ESP32
+- Sensor interfacing
+- Custom embedded board design
 
-### **3️⃣ IV Drip Monitoring System**
-- Developed a **real-time IV fluid monitoring system** using **Arduino Nano, LDR, LED, LCD display, and a buzzer**.
-- Designed a **custom 3D-printed case** for durability and usability.
-- Potential for **IoT integration and AI-driven analytics** for **advanced healthcare automation**.
+### Design & Simulation Tools
+- EasyEDA – Schematic capture & PCB layout
+- Cadence – Analog circuit design
+- Vivado – Digital logic simulation
+- Fusion 360 – Mechanical enclosure design
+- OpenCV (Basics)
 
-## 📫 Contact:
-- **Email**: [navya.rojin@gmail.com](mailto:navya.rojin@gmail.com)
-- **LinkedIn**: [Navya Deena Rojin](https://linkedin.com/in/navya-deena-rojin)
+## Projects
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navya-deena-rojin)
+### IV Drip Monitoring System
+- Designed a non-invasive IV fluid monitoring system using optical sensing
+- Implemented real-time monitoring, alerts, and display using Arduino Nano
+- Developed a custom 3D-printed enclosure for clinical usability
+- Designed for scalability toward IoT-based hospital monitoring
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) 
-![Fusion 360](https://img.shields.io/badge/Fusion360-%23F58500.svg?style=plastic&logo=autodesk&logoColor=white) 
-![PCB Design](https://img.shields.io/badge/PCB%20Design-%23008CBA.svg?style=plastic&logo=altium-designer&logoColor=white)
+### Antweight Combat Robot
+- Designed and fabricated a 200 g competitive antweight combat robot
+- Focused on mechanical strength, maneuverability, and weight optimization
+- Used parametric CAD workflows for rapid design iteration
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=navyarojin&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=navyarojin&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=navyarojin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+### Non-Contact Scrub Dispensing System (Ongoing)
+- Developing a touch-free dispensing system using IR sensing and embedded control
+- Designed for hospital and laboratory hygiene environments
+- Focused on power efficiency, reliability, and actuator control
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Gait Phase Detection System (Ongoing)
+- Designing a sensor-based gait analysis system using motion data
+- Focused on identifying distinct gait phases for rehabilitation applications
+- Intended to interface with closed-loop assistive or stimulation systems
 
----
-[![](https://visitcount.itsvg.in/api?id=navyarojin&icon=0&color=0)](https://visitcount.itsvg.in)
+### Functional Electrical Stimulator (FES) (Ongoing)
+- Developing a low-cost Functional Electrical Stimulation device
+- Focus on safe waveform generation, adjustable parameters, and isolation
+- Emphasis on biomedical safety and hardware reliability
+
+### Custom ESP32 Development Board
+- Designed a custom ESP32-based development board for rapid prototyping
+- Integrated power management, programming interface, and GPIO expansion
+- Integrated on-board IMU, SD-card and battery charger circuit
+- Focused on clean PCB routing, EMI considerations, and manufacturability
+
+## Tools & Technologies
+C | Embedded C | Python | Arduino | ESP32 | EasyEDA | Cadence | Vivado | Fusion 360 | Git
+
+## Contact
+Email: navya.rojin@gmail.com
+LinkedIn: Navya Deena Rojin
+
