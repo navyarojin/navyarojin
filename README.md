@@ -36,13 +36,13 @@ I work across the complete product development cycle from circuit design, PCB la
 
 ## Projects
 
-### Custom ESP32 Development Board (Ongoing)
+### Custom ESP32 Development Board
 - Designed a custom ESP32-based development board for rapid prototyping
 - Integrated power management, programming interface, and GPIO expansion
 - Integrated on-board IMU, SD-card and battery charger circuit
 - Focused on clean PCB routing, EMI considerations, and manufacturability
 
-### Functional Electrical Stimulator (FES) (Ongoing)
+### Functional Electrical Stimulator (FES)
 - Developing a low-cost Functional Electrical Stimulation device
 - Focus on safe waveform generation, adjustable parameters, and isolation
 - Emphasis on biomedical safety and hardware reliability
@@ -67,11 +67,6 @@ I work across the complete product development cycle from circuit design, PCB la
 - Developing a touch-free dispensing system using IR sensing and embedded control
 - Designed for hospital and laboratory hygiene environments
 - Focused on power efficiency, reliability, and actuator control
-
-### Antweight Combat Robot
-- Designed and fabricated a 200 g competitive antweight combat robot
-- Focused on mechanical strength, maneuverability, and weight optimization
-- Used parametric CAD workflows for rapid design iteration
 
 
 ## Tools & Technologies
