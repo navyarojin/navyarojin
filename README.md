@@ -1,7 +1,8 @@
 # Navya Deena Rojin
 
 Electronics & Communication Engineering Undergraduate
-Embedded Systems | PCB Design | Healthcare Electronics
+
+VLSI Design| Embedded Systems | PCB Design | Healthcare Electronics
 
 ## Profile
 I am a B.Tech Electronics and Communication Engineering student at TKM College of Engineering with a strong inclination toward core electronics and embedded hardware development. My work focuses on building robust embedded systems with emphasis on circuit reliability, efficient firmware, and system-level integration, particularly for healthcare and assistive technologies.
