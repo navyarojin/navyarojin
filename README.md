@@ -2,7 +2,7 @@
 
 Electronics & Communication Engineering Undergraduate
 
-Portfolio: [https://github.com/navyarojin](https://navyarojin.vercel.app/)
+Portfolio: [https://navyarojin.vercel.app](https://navyarojin.vercel.app/)
 
 VLSI Design| Embedded Systems | PCB Design | Healthcare Electronics
 
